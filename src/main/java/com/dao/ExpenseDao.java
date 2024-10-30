@@ -11,7 +11,7 @@ import org.hibernate.Transaction;
 
 import com.entity.Expense;
 import com.entity.User;
-
+// comment
 public class ExpenseDao {
 
 	private SessionFactory factory;
