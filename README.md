@@ -4,7 +4,7 @@
 
 The **Expense Tracker Application** is a **Java-based web application** developed using **Servlets, JSP, and Hibernate ORM**. The application allows users to register, manage their profiles, and track daily expenses. It follows the traditional **MVC architecture** where JSP acts as the View, Servlets as Controllers, and Hibernate handles database persistence.
 
-This project is **Servlet and jsp project**. It is a **core Java web project**, fresher-level Java developer**.
+This project is **Servlet and jsp project**. It is a **core Java web project, fresher-level Java developer**.
 
 ---
 
